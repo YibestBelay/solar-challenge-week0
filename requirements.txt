@@ -1,0 +1,5 @@
+@'
+pytest==7.4.4
+flake8==6.0.0
+black==23.12.1
+'@ | Out-File -FilePath requirements.txt -Encoding utf8
